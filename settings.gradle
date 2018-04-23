@@ -1,0 +1,1 @@
+include ':app', ':slice_host', ':slice_provider'
